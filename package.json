@@ -15,7 +15,9 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "@aerogear/voyager-client": "^2.1.0-rc3",
+    "@aerogear/app": "^2.1.0",
+    "@aerogear/core": "^2.1.0",
+    "@aerogear/voyager-client": "^2.1.0",
     "lodash": "^4.17.11"
   }
 }
